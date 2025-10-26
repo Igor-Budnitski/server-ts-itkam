@@ -1,0 +1,13 @@
+{
+  "name": "yes",
+  "version": "yes",
+  "description": "Youtube IT Incubator guide",
+  "main": "index.js",
+  "repository": "yes",
+  "author": "yes",
+  "license": "yes",
+  "private": true,
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
